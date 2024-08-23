@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheHoodCS
-- 👀 I’m interested in Cybersecurity Technology and related fields.
-- 🌱 I’m currently learning courses on TryHackMe and Coursera to upskill myself.
-- 🌱 I have completed my PG program on Advanced Executive Program in Cybersecurity from Simplilearn where I had completed courses on Induction for Advanced Executive Program in Cybersecurity, Enterprise Infrastructure Security, Application and Web Application Security, Ransomware and Malware Analysis and, VAPT and Ethical Hacking.
-- 💞️ I’m looking to collaborate on real time projects related to cybersecurity to enhance my knowledge and learn the skills to excel in this field.
+- 👀 I’m interested in Cybersecurity Technology and SOC analyst role.
+- 🌱 I’m currently applying for SOC analyst jobs and upskilling myself by doing courses on Letsdefend.io, TryHackMe and Cybrary.
+- 🌱 I have completed my PG program on Advanced Executive Program in Cybersecurity from Simplilearn where I had completed courses on Enterprise Infrastructure Security, Application & Web Application Security, Ransomware & Malware Analysis and VAPT & Ethical Hacking.
+- 💞️ I’m looking to collaborate on real time projects related to cybersecurity or internships to gets hands-on skills on this field.
 - 📫 How to reach me : hem99cs@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
